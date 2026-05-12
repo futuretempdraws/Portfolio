@@ -1,0 +1,15 @@
+/* Reset default browser styling. */
+* {
+    padding: 0;
+    margin: 0;
+}
+
+/* Hero banner styling */
+#hero-banner {
+    background-image: url('../Data/Images/Affinity/OXY.png');
+    min-height: 50vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
